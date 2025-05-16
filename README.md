@@ -81,9 +81,9 @@ Pepper의 Laser 센서 및 메인 컴퓨터 성능 한계를 극복하기 위해
     <td align="center"><b>Gmapping</b></td>
   </tr>
   <tr>
-    <td><img src="./image/hector.png" width="250"/></td>
-    <td><img src="./image/cartographer.png" width="250"/></td>
-    <td><img src="./image/gmapping.png" width="250"/></td>
+    <td><img src="./images/hector.png" width="250"/></td>
+    <td><img src="./images/cartographer.png" width="250"/></td>
+    <td><img src="./images/gmapping.png" width="250"/></td>
   </tr>
 </table>
 
